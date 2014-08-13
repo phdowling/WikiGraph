@@ -1,0 +1,15 @@
+
+PERFORMACE:
+    ADD OPENGL SUPPORT
+    properly shut down threads
+
+INTERFACE:
+    Add options to change:
+	-graph balancing parameters
+	-font sizing and color (background color?)
+	-option to disply only text or text AND circles
+    restart graphing (as in creating a new graph from scratch)
+    warning button when expanding large number of nodes
+
+FUTURE FEATURES:
+    add youtube support
